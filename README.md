@@ -154,7 +154,7 @@ nvm use 20.19.0
 ### 3️⃣ Instalar as dependências
 
 ```bash
-cd rate-analyzer
+cd poisson-tuner
 npm install
 ```
 
