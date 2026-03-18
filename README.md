@@ -1,4 +1,4 @@
-# 🚀 Rate Analyzer
+# 🚀 Poisson Tuner
 
 Ferramenta para criar funções para o Processo de Poisson não homogêneo que regerá a geração de pedidos no FoodDeliveryGymEnv.
 
